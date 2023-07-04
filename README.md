@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [![Reflex](assets/reflex.svg)](https://github.com/pynecone-io/pynecone)
+- 🔭 I’m currently working on [![Reflex](assets/reflex-white-bg.png)](https://github.com/pynecone-io/pynecone)
   - _Performant, customizable web apps in pure Python. Deploy in seconds._
 
 Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributions
 
 [![Paypal Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=K7SKQ67XCPB78&no_recurring=0&item_name=Buy+me+a+coffee+%E2%98%95%EF%B8%8F+or+beer+%F0%9F%8D%BA+to+say+thanks+for+my+open+source+contributions&currency_code=USD)
 [![Ethereum Donate](https://img.shields.io/badge/Ethereum-blue?logo=ethereum&labelColor=navy&style=flat-square)](https://etherscan.io/address/0x9c71dd020f575105F49AAF8CA9DC7Fd521C91edd)
-[<img alt="Coinbase Donate" src="assets/coinbase.svg">](https://masenf.cb.id)
+[![Coinbase Donate](assets/coinbase-badge.png)](https://masenf.cb.id)
 
 Join my old-school email newsletter 
 [![newsletter@0x26.net](https://img.shields.io/badge/newsletter%400x26.net-blue?logo=maildotru&style=flat-square&labelColor=darkblue
