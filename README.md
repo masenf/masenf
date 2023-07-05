@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1300](https://github.com/pynecone-io/pynecone/issues/1300) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-2. 🎉 Merged PR [#1301](https://github.com/pynecone-io/pynecone/pull/1301) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-3. 🗣 Commented on [#1300](https://github.com/pynecone-io/pynecone/issues/1300#issuecomment-1620688191) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-4. 💪 Opened PR [#1299](https://github.com/pynecone-io/pynecone/pull/1299) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-5. 🚀 Published release [rebrand as reflex-debounce-input](https://github.com/trivial-intelligence/reflex-debounce-input/releases/tag/v0.4) in [trivial-intelligence/reflex-debounce-input](https://github.com/trivial-intelligence/reflex-debounce-input)
+1. ❗ Opened issue [#1303](https://github.com/pynecone-io/pynecone/issues/1303) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+2. 🔒 Closed issue [#1300](https://github.com/pynecone-io/pynecone/issues/1300) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+3. 🎉 Merged PR [#1301](https://github.com/pynecone-io/pynecone/pull/1301) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+4. 🗣 Commented on [#1300](https://github.com/pynecone-io/pynecone/issues/1300#issuecomment-1620688191) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+5. 💪 Opened PR [#1299](https://github.com/pynecone-io/pynecone/pull/1299) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
 <!--END_SECTION:activity-->
 
 
