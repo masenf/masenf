@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1321](https://github.com/pynecone-io/pynecone/pull/1321) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-2. 🗣 Commented on [#676](https://github.com/pynecone-io/pynecone/issues/676#issuecomment-1625711345) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-3. 🗣 Commented on [#1235](https://github.com/pynecone-io/pynecone/issues/1235#issuecomment-1625564735) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-4. 🗣 Commented on [#419](https://github.com/pynecone-io/pynecone/issues/419#issuecomment-1624475155) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-5. 🗣 Commented on [#419](https://github.com/pynecone-io/pynecone/issues/419#issuecomment-1624468946) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+1. 🗣 Commented on [#1087](https://github.com/pynecone-io/pynecone/issues/1087#issuecomment-1629926447) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+2. 💪 Opened PR [#1321](https://github.com/pynecone-io/pynecone/pull/1321) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+3. 🗣 Commented on [#676](https://github.com/pynecone-io/pynecone/issues/676#issuecomment-1625711345) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+4. 🗣 Commented on [#1235](https://github.com/pynecone-io/pynecone/issues/1235#issuecomment-1625564735) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+5. 🗣 Commented on [#419](https://github.com/pynecone-io/pynecone/issues/419#issuecomment-1624475155) in [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
 <!--END_SECTION:activity-->
 
 
