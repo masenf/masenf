@@ -1,4 +1,4 @@
-### [![Reflex](assets/reflex-white-bg.png)](https://github.com/pynecone-io/pynecone)
+### [![Reflex](assets/reflex-white-bg.png)](https://github.com/reflex-dev/reflex)
 
 #### _Performant, customizable web apps in pure Python. Deploy in seconds._
 
