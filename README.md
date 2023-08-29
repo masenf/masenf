@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/PedroDaumas/test_reflex/pull/1) in [PedroDaumas/test_reflex](https://github.com/PedroDaumas/test_reflex)
-2. 💪 Opened PR [#189](https://github.com/reflex-dev/reflex-web/pull/189) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-3. 💪 Opened PR [#1695](https://github.com/reflex-dev/reflex/pull/1695) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#822](https://github.com/reflex-dev/reflex/issues/822#issuecomment-1694698804) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❗ Opened issue [#187](https://github.com/reflex-dev/reflex-web/issues/187) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+1. 🗣 Commented on [#1696](https://github.com/reflex-dev/reflex/issues/1696#issuecomment-1696717186) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🎉 Merged PR [#1706](https://github.com/reflex-dev/reflex/pull/1706) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#1](https://github.com/PedroDaumas/test_reflex/pull/1) in [PedroDaumas/test_reflex](https://github.com/PedroDaumas/test_reflex)
+4. 💪 Opened PR [#189](https://github.com/reflex-dev/reflex-web/pull/189) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+5. 💪 Opened PR [#1695](https://github.com/reflex-dev/reflex/pull/1695) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
