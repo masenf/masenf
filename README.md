@@ -30,7 +30,7 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 2. 🚀 Published release [part1-v1](https://github.com/trivial-intelligence/reflex-job-runner/releases/tag/part1-v1) in [trivial-intelligence/reflex-job-runner](https://github.com/trivial-intelligence/reflex-job-runner)
 3. 💪 Opened PR [#1853](https://github.com/reflex-dev/reflex/pull/1853) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 4. ❌ Closed PR [#1415](https://github.com/reflex-dev/reflex/pull/1415) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 💪 Opened PR [#1833](https://github.com/reflex-dev/reflex/pull/1833) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❌ Closed PR [#1833](https://github.com/reflex-dev/reflex/pull/1833) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
