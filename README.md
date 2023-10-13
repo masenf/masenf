@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/reflex-dev/reflex-examples/pull/157) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
-2. 🚀 Published release [part2-v1](https://github.com/trivial-intelligence/reflex-job-runner/releases/tag/part2-v1) in [trivial-intelligence/reflex-job-runner](https://github.com/trivial-intelligence/reflex-job-runner)
-3. 🎉 Merged PR [#1](https://github.com/trivial-intelligence/reflex-job-runner/pull/1) in [trivial-intelligence/reflex-job-runner](https://github.com/trivial-intelligence/reflex-job-runner)
-4. 💪 Opened PR [#1](https://github.com/trivial-intelligence/reflex-job-runner/pull/1) in [trivial-intelligence/reflex-job-runner](https://github.com/trivial-intelligence/reflex-job-runner)
-5. 🗣 Commented on [#1967](https://github.com/reflex-dev/reflex/pull/1967#issuecomment-1761810069) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. ❌ Closed PR [#158](https://github.com/reflex-dev/reflex-examples/pull/158) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+2. 🗣 Commented on [#158](https://github.com/reflex-dev/reflex-examples/pull/158#issuecomment-1761956062) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+3. 💪 Opened PR [#158](https://github.com/reflex-dev/reflex-examples/pull/158) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+4. 💪 Opened PR [#157](https://github.com/reflex-dev/reflex-examples/pull/157) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+5. 🚀 Published release [part2-v1](https://github.com/trivial-intelligence/reflex-job-runner/releases/tag/part2-v1) in [trivial-intelligence/reflex-job-runner](https://github.com/trivial-intelligence/reflex-job-runner)
 <!--END_SECTION:activity-->
 
 
