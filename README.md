@@ -30,7 +30,7 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 2. 🗣 Commented on [#2335](https://github.com/reflex-dev/reflex/issues/2335#issuecomment-1874744272) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 3. 🔒 Closed issue [#2307](https://github.com/reflex-dev/reflex/issues/2307) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 4. 🗣 Commented on [#2307](https://github.com/reflex-dev/reflex/issues/2307#issuecomment-1874726805) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#178](https://github.com/reflex-dev/reflex-examples/pull/178#issuecomment-1854682790) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+5. 💪 Opened PR [#179](https://github.com/reflex-dev/reflex-examples/pull/179) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
 <!--END_SECTION:activity-->
 
 
