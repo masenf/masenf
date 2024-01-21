@@ -30,7 +30,7 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 2. 🎉 Merged PR [#91](https://github.com/mycodeplug/dzcb/pull/91) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
 3. 🎉 Merged PR [#90](https://github.com/mycodeplug/dzcb/pull/90) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
 4. 💪 Opened PR [#386](https://github.com/reflex-dev/reflex-web/pull/386) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-5. 💪 Opened PR [#2379](https://github.com/reflex-dev/reflex/pull/2379) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🗣 Commented on [#2367](https://github.com/reflex-dev/reflex/issues/2367#issuecomment-1885626057) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
