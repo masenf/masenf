@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/mycodeplug/dzcb/pull/90) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
-2. 💪 Opened PR [#386](https://github.com/reflex-dev/reflex-web/pull/386) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-3. 🗣 Commented on [#378](https://github.com/reflex-dev/reflex-web/pull/378#issuecomment-1902742761) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-4. 🚀 Published release [2024-01-20](https://github.com/masenf/kf7hvm-codeplug/releases/tag/2024-01-20) in [masenf/kf7hvm-codeplug](https://github.com/masenf/kf7hvm-codeplug)
-5. 💪 Opened PR [#383](https://github.com/reflex-dev/reflex-web/pull/383) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+1. 🚀 Published release [0.3.10](https://github.com/mycodeplug/dzcb/releases/tag/0.3.10) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
+2. 🎉 Merged PR [#91](https://github.com/mycodeplug/dzcb/pull/91) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
+3. 🎉 Merged PR [#90](https://github.com/mycodeplug/dzcb/pull/90) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
+4. 💪 Opened PR [#386](https://github.com/reflex-dev/reflex-web/pull/386) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+5. 🗣 Commented on [#378](https://github.com/reflex-dev/reflex-web/pull/378#issuecomment-1902742761) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
 <!--END_SECTION:activity-->
 
 
