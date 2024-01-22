@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#390](https://github.com/reflex-dev/reflex-web/pull/390) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-2. 💪 Opened PR [#389](https://github.com/reflex-dev/reflex-web/pull/389) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-3. 🚀 Published release [0.3.10](https://github.com/mycodeplug/dzcb/releases/tag/0.3.10) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
-4. 🎉 Merged PR [#91](https://github.com/mycodeplug/dzcb/pull/91) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
-5. 🗣 Commented on [#2367](https://github.com/reflex-dev/reflex/issues/2367#issuecomment-1885626057) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🚀 Published release [v0.3.9](https://github.com/reflex-dev/reflex/releases/tag/v0.3.9) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#390](https://github.com/reflex-dev/reflex-web/pull/390) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+3. 💪 Opened PR [#389](https://github.com/reflex-dev/reflex-web/pull/389) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+4. 🚀 Published release [0.3.10](https://github.com/mycodeplug/dzcb/releases/tag/0.3.10) in [mycodeplug/dzcb](https://github.com/mycodeplug/dzcb)
+5. 💪 Opened PR [#362](https://github.com/reflex-dev/reflex-web/pull/362) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
 <!--END_SECTION:activity-->
 
 
