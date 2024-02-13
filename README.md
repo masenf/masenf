@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#454](https://github.com/reflex-dev/reflex-web/pull/454) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-2. 💪 Opened PR [#2590](https://github.com/reflex-dev/reflex/pull/2590) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❗ Opened issue [#2690](https://github.com/pypa/virtualenv/issues/2690) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#2587](https://github.com/reflex-dev/reflex/pull/2587) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#2584](https://github.com/reflex-dev/reflex/pull/2584) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🎉 Merged PR [#454](https://github.com/reflex-dev/reflex-web/pull/454) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+2. 🎉 Merged PR [#2590](https://github.com/reflex-dev/reflex/pull/2590) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#454](https://github.com/reflex-dev/reflex-web/pull/454) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+4. 💪 Opened PR [#2590](https://github.com/reflex-dev/reflex/pull/2590) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❗ Opened issue [#2690](https://github.com/pypa/virtualenv/issues/2690) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--END_SECTION:activity-->
 
 
