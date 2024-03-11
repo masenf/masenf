@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/masenf/reflex-local-auth/releases/tag/v0.0.2) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
-2. 💪 Opened PR [#2822](https://github.com/reflex-dev/reflex/pull/2822) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🚀 Published release [v0.0.1](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-4. 🗣 Commented on [#2814](https://github.com/reflex-dev/reflex/issues/2814#issuecomment-1986720047) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🔒 Closed issue [#2814](https://github.com/reflex-dev/reflex/issues/2814) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🎉 Merged PR [#2833](https://github.com/reflex-dev/reflex/pull/2833) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#2833](https://github.com/reflex-dev/reflex/pull/2833) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🚀 Published release [v0.0.2](https://github.com/masenf/reflex-local-auth/releases/tag/v0.0.2) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
+4. 💪 Opened PR [#2822](https://github.com/reflex-dev/reflex/pull/2822) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🚀 Published release [v0.0.1](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
 
