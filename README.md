@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.2) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-2. 🎉 Merged PR [#1](https://github.com/masenf/reflex-intersection-observer/pull/1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-3. 💪 Opened PR [#1](https://github.com/masenf/reflex-intersection-observer/pull/1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-4. 🗣 Commented on [#9](https://github.com/masenf/tox-ignore-env-name-mismatch/issues/9#issuecomment-1994514649) in [masenf/tox-ignore-env-name-mismatch](https://github.com/masenf/tox-ignore-env-name-mismatch)
-5. 🔒 Closed issue [#1490](https://github.com/reflex-dev/reflex/issues/1490) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#2856](https://github.com/reflex-dev/reflex/pull/2856) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#2837](https://github.com/reflex-dev/reflex/pull/2837#issuecomment-1995820176) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🎉 Merged PR [#2810](https://github.com/reflex-dev/reflex/pull/2810) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🚀 Published release [v0.0.2](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.2) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+5. 🎉 Merged PR [#1](https://github.com/masenf/reflex-intersection-observer/pull/1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
 
