@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#218](https://github.com/reflex-dev/reflex-examples/pull/218) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
-2. 🗣 Commented on [#2874](https://github.com/reflex-dev/reflex/pull/2874#issuecomment-2005195149) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❌ Closed PR [#2874](https://github.com/reflex-dev/reflex/pull/2874) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🔒 Closed issue [#2824](https://github.com/reflex-dev/reflex/issues/2824) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#2876](https://github.com/reflex-dev/reflex/pull/2876) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. ❗ Opened issue [#2878](https://github.com/reflex-dev/reflex/issues/2878) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🚀 Published release [v0.0.2](https://github.com/martinxu9/reflex-google-auth/releases/tag/v0.0.2) in [martinxu9/reflex-google-auth](https://github.com/martinxu9/reflex-google-auth)
+3. 💪 Opened PR [#218](https://github.com/reflex-dev/reflex-examples/pull/218) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+4. 🗣 Commented on [#2874](https://github.com/reflex-dev/reflex/pull/2874#issuecomment-2005195149) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❌ Closed PR [#2874](https://github.com/reflex-dev/reflex/pull/2874) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
