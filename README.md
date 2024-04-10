@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-google-recaptcha-v2/releases/tag/v0.0.3) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
-2. 🎉 Merged PR [#1](https://github.com/masenf/reflex-google-recaptcha-v2/pull/1) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
-3. 💪 Opened PR [#1](https://github.com/masenf/reflex-google-recaptcha-v2/pull/1) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
-4. 🚀 Published release [v0.0.3-1](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.3-1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-5. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.3) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+1. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-magic-link-auth/releases/tag/v0.0.3) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+2. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-google-recaptcha-v2/releases/tag/v0.0.3) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+3. 🎉 Merged PR [#1](https://github.com/masenf/reflex-google-recaptcha-v2/pull/1) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+4. 💪 Opened PR [#1](https://github.com/masenf/reflex-google-recaptcha-v2/pull/1) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+5. 🚀 Published release [v0.0.3-1](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.3-1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
 
