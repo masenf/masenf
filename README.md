@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/masenf/reflex-intersection-observer/pull/2) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-2. 🗣 Commented on [#3060](https://github.com/reflex-dev/reflex/issues/3060#issuecomment-2046508768) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#3060](https://github.com/reflex-dev/reflex/issues/3060#issuecomment-2046504835) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#3060](https://github.com/reflex-dev/reflex/issues/3060#issuecomment-2046502336) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 💪 Opened PR [#605](https://github.com/reflex-dev/reflex-web/pull/605) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+1. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-google-recaptcha-v2/releases/tag/v0.0.3) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+2. 🎉 Merged PR [#1](https://github.com/masenf/reflex-google-recaptcha-v2/pull/1) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+3. 💪 Opened PR [#1](https://github.com/masenf/reflex-google-recaptcha-v2/pull/1) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+4. 🚀 Published release [v0.0.3-1](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.3-1) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+5. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.3) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
 
