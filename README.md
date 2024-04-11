@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#610](https://github.com/reflex-dev/reflex-web/pull/610#issuecomment-2048532072) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-2. 🚀 Published release [v0.0.5](https://github.com/masenf/reflex-google-auth/releases/tag/v0.0.5) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-3. 🗣 Commented on [#1](https://github.com/masenf/reflex-google-auth/issues/1#issuecomment-2048492075) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-4. 🔒 Closed issue [#1](https://github.com/masenf/reflex-google-auth/issues/1) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-5. 🚀 Published release [v0.1.0](https://github.com/masenf/reflex-local-auth/releases/tag/v0.1.0) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
+1. 🗣 Commented on [#592](https://github.com/reflex-dev/reflex-web/pull/592#issuecomment-2048633087) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+2. ❗ Opened issue [#3069](https://github.com/reflex-dev/reflex/issues/3069) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❗ Opened issue [#3068](https://github.com/reflex-dev/reflex/issues/3068) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🗣 Commented on [#610](https://github.com/reflex-dev/reflex-web/pull/610#issuecomment-2048532072) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+5. 🚀 Published release [v0.0.5](https://github.com/masenf/reflex-google-auth/releases/tag/v0.0.5) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
 <!--END_SECTION:activity-->
 
 
