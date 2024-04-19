@@ -30,7 +30,7 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 2. 🗣 Commented on [#3111](https://github.com/reflex-dev/reflex/issues/3111#issuecomment-2066793469) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 3. 🎉 Merged PR [#3099](https://github.com/reflex-dev/reflex/pull/3099) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 4. 🎉 Merged PR [#3113](https://github.com/reflex-dev/reflex/pull/3113) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#3115](https://github.com/reflex-dev/reflex/issues/3115#issuecomment-2065540754) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🗣 Commented on [#3](https://github.com/masenf/reflex-intersection-observer/issues/3#issuecomment-2059643226) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
 
