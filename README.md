@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3379](https://github.com/reflex-dev/reflex/pull/3379) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🎉 Merged PR [#3](https://github.com/reflex-dev/sidebar-template/pull/3) in [reflex-dev/sidebar-template](https://github.com/reflex-dev/sidebar-template)
-3. 🗣 Commented on [#3371](https://github.com/reflex-dev/reflex/issues/3371#issuecomment-2127561277) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🔒 Closed issue [#3368](https://github.com/reflex-dev/reflex/issues/3368) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#3372](https://github.com/reflex-dev/reflex/pull/3372) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#3380](https://github.com/reflex-dev/reflex/pull/3380) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#3379](https://github.com/reflex-dev/reflex/pull/3379) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🎉 Merged PR [#3](https://github.com/reflex-dev/sidebar-template/pull/3) in [reflex-dev/sidebar-template](https://github.com/reflex-dev/sidebar-template)
+4. 🗣 Commented on [#3371](https://github.com/reflex-dev/reflex/issues/3371#issuecomment-2127561277) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🔒 Closed issue [#3368](https://github.com/reflex-dev/reflex/issues/3368) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
