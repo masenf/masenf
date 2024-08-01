@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-audio-capture/releases/tag/v0.0.3) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
-2. 🔒 Closed issue [#1](https://github.com/masenf/reflex-audio-capture/issues/1) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
-3. 🎉 Merged PR [#2](https://github.com/masenf/reflex-audio-capture/pull/2) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
-4. 💪 Opened PR [#2](https://github.com/masenf/reflex-audio-capture/pull/2) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
-5. 💪 Opened PR [#3732](https://github.com/reflex-dev/reflex/pull/3732) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#1](https://github.com/masenf/reflex-audio-capture/issues/1#issuecomment-2263963767) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+2. 🚀 Published release [v0.0.3](https://github.com/masenf/reflex-audio-capture/releases/tag/v0.0.3) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+3. 🎉 Merged PR [#3](https://github.com/masenf/reflex-audio-capture/pull/3) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+4. 💪 Opened PR [#3](https://github.com/masenf/reflex-audio-capture/pull/3) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+5. 🔒 Closed issue [#3554](https://github.com/reflex-dev/reflex/issues/3554) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
