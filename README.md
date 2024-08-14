@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3775](https://github.com/reflex-dev/reflex/issues/3775#issuecomment-2284665287) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#3761](https://github.com/reflex-dev/reflex/issues/3761#issuecomment-2276783656) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#3754](https://github.com/reflex-dev/reflex/issues/3754#issuecomment-2274216847) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🚀 Published release [v0.2.2](https://github.com/masenf/reflex-local-auth/releases/tag/v0.2.2) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
-5. 🎉 Merged PR [#11](https://github.com/masenf/reflex-local-auth/pull/11) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
+1. 🗣 Commented on [#3767](https://github.com/reflex-dev/reflex/issues/3767#issuecomment-2288054809) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#3775](https://github.com/reflex-dev/reflex/issues/3775#issuecomment-2284665287) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🗣 Commented on [#3761](https://github.com/reflex-dev/reflex/issues/3761#issuecomment-2276783656) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🗣 Commented on [#3754](https://github.com/reflex-dev/reflex/issues/3754#issuecomment-2274216847) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🚀 Published release [v0.2.2](https://github.com/masenf/reflex-local-auth/releases/tag/v0.2.2) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
 <!--END_SECTION:activity-->
 
 
