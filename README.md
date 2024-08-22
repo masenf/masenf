@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3821](https://github.com/reflex-dev/reflex/pull/3821) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 💪 Opened PR [#8](https://github.com/reflex-dev/reflex-chakra/pull/8) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
-3. 💪 Opened PR [#3](https://github.com/tgberkeley/reflex-webcam/pull/3) in [tgberkeley/reflex-webcam](https://github.com/tgberkeley/reflex-webcam)
-4. 🗣 Commented on [#3817](https://github.com/reflex-dev/reflex/issues/3817#issuecomment-2303040567) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#3814](https://github.com/reflex-dev/reflex/pull/3814#issuecomment-2302635553) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#3820](https://github.com/reflex-dev/reflex/issues/3820#issuecomment-2305658896) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#3821](https://github.com/reflex-dev/reflex/pull/3821) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#8](https://github.com/reflex-dev/reflex-chakra/pull/8) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
+4. 💪 Opened PR [#3](https://github.com/tgberkeley/reflex-webcam/pull/3) in [tgberkeley/reflex-webcam](https://github.com/tgberkeley/reflex-webcam)
+5. 🗣 Commented on [#3817](https://github.com/reflex-dev/reflex/issues/3817#issuecomment-2303040567) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
