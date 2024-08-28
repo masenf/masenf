@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3847](https://github.com/reflex-dev/reflex/pull/3847) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🎉 Merged PR [#3846](https://github.com/reflex-dev/reflex/pull/3846) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🚀 Published release [v0.5.10](https://github.com/reflex-dev/reflex-chakra/releases/tag/v0.5.10) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
-4. 💪 Opened PR [#3847](https://github.com/reflex-dev/reflex/pull/3847) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 💪 Opened PR [#3846](https://github.com/reflex-dev/reflex/pull/3846) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🚀 Published release [v0.5.10](https://github.com/reflex-dev/reflex/releases/tag/v0.5.10) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🎉 Merged PR [#3847](https://github.com/reflex-dev/reflex/pull/3847) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🎉 Merged PR [#3846](https://github.com/reflex-dev/reflex/pull/3846) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🚀 Published release [v0.5.10](https://github.com/reflex-dev/reflex-chakra/releases/tag/v0.5.10) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
+5. 💪 Opened PR [#3847](https://github.com/reflex-dev/reflex/pull/3847) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
