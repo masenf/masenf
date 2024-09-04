@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3506](https://github.com/reflex-dev/reflex/issues/3506) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🎉 Merged PR [#3855](https://github.com/reflex-dev/reflex/pull/3855) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#893](https://github.com/reflex-dev/reflex-web/pull/893#issuecomment-2327356203) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-4. 🔒 Closed issue [#3715](https://github.com/reflex-dev/reflex/issues/3715) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#3853](https://github.com/reflex-dev/reflex/pull/3853) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#3863](https://github.com/reflex-dev/reflex/issues/3863#issuecomment-2329612827) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🔒 Closed issue [#3506](https://github.com/reflex-dev/reflex/issues/3506) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🎉 Merged PR [#3855](https://github.com/reflex-dev/reflex/pull/3855) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🗣 Commented on [#893](https://github.com/reflex-dev/reflex-web/pull/893#issuecomment-2327356203) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+5. 🔒 Closed issue [#3715](https://github.com/reflex-dev/reflex/issues/3715) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
