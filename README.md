@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.4](https://github.com/masenf/reflex-magic-link-auth/releases/tag/v0.0.4) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
-2. 🎉 Merged PR [#1](https://github.com/masenf/reflex-magic-link-auth/pull/1) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
-3. 💪 Opened PR [#1](https://github.com/masenf/reflex-magic-link-auth/pull/1) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
-4. 🚀 Published release [v0.0.4](https://github.com/masenf/reflex-google-recaptcha-v2/releases/tag/v0.0.4) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
-5. 🎉 Merged PR [#2](https://github.com/masenf/reflex-google-recaptcha-v2/pull/2) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+1. 🚀 Published release [v0.0.6](https://github.com/masenf/reflex-google-auth/releases/tag/v0.0.6) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+2. 🗣 Commented on [#3](https://github.com/masenf/reflex-google-auth/issues/3#issuecomment-2361951100) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+3. 🔒 Closed issue [#3](https://github.com/masenf/reflex-google-auth/issues/3) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+4. 🔒 Closed issue [#2](https://github.com/masenf/reflex-google-auth/issues/2) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+5. 🎉 Merged PR [#4](https://github.com/masenf/reflex-google-auth/pull/4) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
 <!--END_SECTION:activity-->
 
 
