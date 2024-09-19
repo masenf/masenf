@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.4](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.4) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-2. 🎉 Merged PR [#6](https://github.com/masenf/reflex-intersection-observer/pull/6) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-3. 💪 Opened PR [#6](https://github.com/masenf/reflex-intersection-observer/pull/6) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
-4. 💪 Opened PR [#3951](https://github.com/reflex-dev/reflex/pull/3951) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#3919](https://github.com/reflex-dev/reflex/pull/3919#issuecomment-2359598998) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🚀 Published release [v0.0.4](https://github.com/masenf/reflex-magic-link-auth/releases/tag/v0.0.4) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+2. 🎉 Merged PR [#1](https://github.com/masenf/reflex-magic-link-auth/pull/1) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+3. 💪 Opened PR [#1](https://github.com/masenf/reflex-magic-link-auth/pull/1) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+4. 🚀 Published release [v0.0.4](https://github.com/masenf/reflex-google-recaptcha-v2/releases/tag/v0.0.4) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
+5. 🎉 Merged PR [#2](https://github.com/masenf/reflex-google-recaptcha-v2/pull/2) in [masenf/reflex-google-recaptcha-v2](https://github.com/masenf/reflex-google-recaptcha-v2)
 <!--END_SECTION:activity-->
 
 
