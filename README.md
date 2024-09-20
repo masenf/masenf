@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3958](https://github.com/reflex-dev/reflex/pull/3958) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🚀 Published release [v0.0.6](https://github.com/masenf/reflex-google-auth/releases/tag/v0.0.6) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-3. 🗣 Commented on [#3](https://github.com/masenf/reflex-google-auth/issues/3#issuecomment-2361951100) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-4. 🔒 Closed issue [#3](https://github.com/masenf/reflex-google-auth/issues/3) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-5. 🔒 Closed issue [#2](https://github.com/masenf/reflex-google-auth/issues/2) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+1. 🔒 Closed issue [#3921](https://github.com/reflex-dev/reflex/issues/3921) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🚀 Published release [v0.0.4](https://github.com/masenf/reflex-audio-capture/releases/tag/v0.0.4) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+3. 🎉 Merged PR [#5](https://github.com/masenf/reflex-audio-capture/pull/5) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+4. 💪 Opened PR [#5](https://github.com/masenf/reflex-audio-capture/pull/5) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+5. 💪 Opened PR [#3958](https://github.com/reflex-dev/reflex/pull/3958) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
