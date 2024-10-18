@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/reflex-dev/reflex-ag-grid/pull/12) in [reflex-dev/reflex-ag-grid](https://github.com/reflex-dev/reflex-ag-grid)
-2. 🚀 Published release [v0.6.3a2](https://github.com/reflex-dev/templates/releases/tag/v0.6.3a2) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
-3. 💪 Opened PR [#270](https://github.com/reflex-dev/reflex-examples/pull/270) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
-4. 🚀 Published release [v0.6.4.dev1](https://github.com/reflex-dev/templates/releases/tag/v0.6.4.dev1) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
-5. 🎉 Merged PR [#4176](https://github.com/reflex-dev/reflex/pull/4176) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#4193](https://github.com/reflex-dev/reflex/pull/4193) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#12](https://github.com/reflex-dev/reflex-ag-grid/pull/12) in [reflex-dev/reflex-ag-grid](https://github.com/reflex-dev/reflex-ag-grid)
+3. 🚀 Published release [v0.6.3a2](https://github.com/reflex-dev/templates/releases/tag/v0.6.3a2) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+4. 💪 Opened PR [#270](https://github.com/reflex-dev/reflex-examples/pull/270) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+5. 🚀 Published release [v0.6.4.dev1](https://github.com/reflex-dev/templates/releases/tag/v0.6.4.dev1) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
 <!--END_SECTION:activity-->
 
 
