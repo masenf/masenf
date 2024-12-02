@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#287](https://github.com/reflex-dev/reflex-examples/pull/287) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
-2. 🎉 Merged PR [#4447](https://github.com/reflex-dev/reflex/pull/4447) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 💪 Opened PR [#4450](https://github.com/reflex-dev/reflex/pull/4450) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#4449](https://github.com/reflex-dev/reflex/pull/4449) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 💪 Opened PR [#4442](https://github.com/reflex-dev/reflex/pull/4442) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#1113](https://github.com/reflex-dev/reflex-web/pull/1113) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+2. 🚀 Published release [v0.6.6a3](https://github.com/reflex-dev/templates/releases/tag/v0.6.6a3) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+3. 🎉 Merged PR [#287](https://github.com/reflex-dev/reflex-examples/pull/287) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+4. 🎉 Merged PR [#4447](https://github.com/reflex-dev/reflex/pull/4447) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 💪 Opened PR [#4450](https://github.com/reflex-dev/reflex/pull/4450) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
