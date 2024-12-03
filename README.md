@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.6](https://github.com/reflex-dev/templates/releases/tag/v0.6.6) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
-2. 🚀 Published release [v0.6.6](https://github.com/reflex-dev/reflex/releases/tag/v0.6.6) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🎉 Merged PR [#4463](https://github.com/reflex-dev/reflex/pull/4463) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#4435](https://github.com/reflex-dev/reflex/issues/4435#issuecomment-2513219867) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#4458](https://github.com/reflex-dev/reflex/issues/4458#issuecomment-2512986105) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#2812](https://github.com/reflex-dev/reflex/issues/2812#issuecomment-2515176995) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🔒 Reopened issue [#2812](https://github.com/reflex-dev/reflex/issues/2812) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🚀 Published release [v0.6.6](https://github.com/reflex-dev/templates/releases/tag/v0.6.6) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+4. 🚀 Published release [v0.6.6](https://github.com/reflex-dev/reflex/releases/tag/v0.6.6) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🎉 Merged PR [#4463](https://github.com/reflex-dev/reflex/pull/4463) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
