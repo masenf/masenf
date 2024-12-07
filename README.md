@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4493](https://github.com/reflex-dev/reflex/pull/4493) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 💪 Opened PR [#2](https://github.com/masenf/rx_shout/pull/2) in [masenf/rx_shout](https://github.com/masenf/rx_shout)
-3. 💪 Opened PR [#288](https://github.com/reflex-dev/reflex-examples/pull/288) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
-4. 💪 Opened PR [#4489](https://github.com/reflex-dev/reflex/pull/4489) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🚀 Published release [v0.6.6.post2](https://github.com/reflex-dev/reflex/releases/tag/v0.6.6.post2) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#4493](https://github.com/reflex-dev/reflex/pull/4493#issuecomment-2523940453) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#4493](https://github.com/reflex-dev/reflex/pull/4493) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#2](https://github.com/masenf/rx_shout/pull/2) in [masenf/rx_shout](https://github.com/masenf/rx_shout)
+4. 💪 Opened PR [#288](https://github.com/reflex-dev/reflex-examples/pull/288) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+5. 💪 Opened PR [#4489](https://github.com/reflex-dev/reflex/pull/4489) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
