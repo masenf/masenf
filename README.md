@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4562](https://github.com/reflex-dev/reflex/issues/4562) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 💪 Opened PR [#1157](https://github.com/reflex-dev/reflex-web/pull/1157) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-3. ❗ Opened issue [#4561](https://github.com/reflex-dev/reflex/issues/4561) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#4553](https://github.com/reflex-dev/reflex/pull/4553) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🚀 Published release [v0.0.5](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.5) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+1. 🎉 Merged PR [#1157](https://github.com/reflex-dev/reflex-web/pull/1157) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+2. 🎉 Merged PR [#6](https://github.com/masenf/reflex-audio-capture/pull/6) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
+3. 💪 Opened PR [#4564](https://github.com/reflex-dev/reflex/pull/4564) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. ❗ Opened issue [#4562](https://github.com/reflex-dev/reflex/issues/4562) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 💪 Opened PR [#1157](https://github.com/reflex-dev/reflex-web/pull/1157) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
 <!--END_SECTION:activity-->
 
 
