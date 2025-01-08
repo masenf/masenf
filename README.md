@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/reflex-dev/templates/pull/37) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
-2. 💪 Opened PR [#4600](https://github.com/reflex-dev/reflex/pull/4600) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 💪 Opened PR [#52](https://github.com/reflex-dev/templates/pull/52) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
-4. 🚀 Published release [v2](https://github.com/reflex-dev/reflex-deploy-action/releases/tag/v2) in [reflex-dev/reflex-deploy-action](https://github.com/reflex-dev/reflex-deploy-action)
-5. 🎉 Merged PR [#7](https://github.com/reflex-dev/reflex-deploy-action/pull/7) in [reflex-dev/reflex-deploy-action](https://github.com/reflex-dev/reflex-deploy-action)
+1. ❗ Opened issue [#11230](https://github.com/pydantic/pydantic/issues/11230) in [pydantic/pydantic](https://github.com/pydantic/pydantic)
+2. 🎉 Merged PR [#37](https://github.com/reflex-dev/templates/pull/37) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+3. 💪 Opened PR [#4600](https://github.com/reflex-dev/reflex/pull/4600) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 💪 Opened PR [#52](https://github.com/reflex-dev/templates/pull/52) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+5. 🚀 Published release [v2](https://github.com/reflex-dev/reflex-deploy-action/releases/tag/v2) in [reflex-dev/reflex-deploy-action](https://github.com/reflex-dev/reflex-deploy-action)
 <!--END_SECTION:activity-->
 
 
