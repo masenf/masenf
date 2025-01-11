@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/reflex-dev/reflex-deploy-action/issues/8) in [reflex-dev/reflex-deploy-action](https://github.com/reflex-dev/reflex-deploy-action)
-2. 💪 Opened PR [#64](https://github.com/reflex-dev/reflex-ag-grid/pull/64) in [reflex-dev/reflex-ag-grid](https://github.com/reflex-dev/reflex-ag-grid)
-3. 💪 Opened PR [#1164](https://github.com/reflex-dev/reflex-web/pull/1164) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-4. 💪 Opened PR [#4622](https://github.com/reflex-dev/reflex/pull/4622) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❗ Opened issue [#4621](https://github.com/reflex-dev/reflex/issues/4621) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🔒 Closed issue [#4621](https://github.com/reflex-dev/reflex/issues/4621) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🎉 Merged PR [#4622](https://github.com/reflex-dev/reflex/pull/4622) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❗ Opened issue [#8](https://github.com/reflex-dev/reflex-deploy-action/issues/8) in [reflex-dev/reflex-deploy-action](https://github.com/reflex-dev/reflex-deploy-action)
+4. 💪 Opened PR [#64](https://github.com/reflex-dev/reflex-ag-grid/pull/64) in [reflex-dev/reflex-ag-grid](https://github.com/reflex-dev/reflex-ag-grid)
+5. 💪 Opened PR [#1164](https://github.com/reflex-dev/reflex-web/pull/1164) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
 <!--END_SECTION:activity-->
 
 
