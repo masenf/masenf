@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4788](https://github.com/reflex-dev/reflex/pull/4788) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🎉 Merged PR [#4777](https://github.com/reflex-dev/reflex/pull/4777) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 💪 Opened PR [#4778](https://github.com/reflex-dev/reflex/pull/4778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#4777](https://github.com/reflex-dev/reflex/pull/4777) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#4765](https://github.com/reflex-dev/reflex/pull/4765) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#4789](https://github.com/reflex-dev/reflex/pull/4789) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🚀 Published release [v0.0.8](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.8) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+3. 🎉 Merged PR [#11](https://github.com/masenf/reflex-intersection-observer/pull/11) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+4. 💪 Opened PR [#11](https://github.com/masenf/reflex-intersection-observer/pull/11) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
+5. 🚀 Published release [v0.0.7](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.7) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
 
