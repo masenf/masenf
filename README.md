@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/masenf/reflex-echarts/releases/tag/v0.1.0) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
-2. 🎉 Merged PR [#3](https://github.com/masenf/reflex-echarts/pull/3) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
-3. 🚀 Published release [v0.1.0a1](https://github.com/masenf/reflex-echarts/releases/tag/v0.1.0a1) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
-4. 💪 Opened PR [#3](https://github.com/masenf/reflex-echarts/pull/3) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
-5. 🚀 Published release [v0.1.1](https://github.com/masenf/reflex-magic-link-auth/releases/tag/v0.1.1) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+1. 💪 Opened PR [#4826](https://github.com/reflex-dev/reflex/pull/4826) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🚀 Published release [v0.1.0](https://github.com/masenf/reflex-echarts/releases/tag/v0.1.0) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
+3. 🎉 Merged PR [#3](https://github.com/masenf/reflex-echarts/pull/3) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
+4. 🚀 Published release [v0.1.0a1](https://github.com/masenf/reflex-echarts/releases/tag/v0.1.0a1) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
+5. 💪 Opened PR [#3](https://github.com/masenf/reflex-echarts/pull/3) in [masenf/reflex-echarts](https://github.com/masenf/reflex-echarts)
 <!--END_SECTION:activity-->
 
 
