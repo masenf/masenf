@@ -26,10 +26,10 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4806](https://github.com/reflex-dev/reflex/issues/4806) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🎉 Merged PR [#4826](https://github.com/reflex-dev/reflex/pull/4826) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🚀 Published release [v0.1.0](https://github.com/tgberkeley/reflex-webcam/releases/tag/v0.1.0) in [tgberkeley/reflex-webcam](https://github.com/tgberkeley/reflex-webcam)
-4. 🎉 Merged PR [#4](https://github.com/tgberkeley/reflex-webcam/pull/4) in [tgberkeley/reflex-webcam](https://github.com/tgberkeley/reflex-webcam)
+1. ❗ Opened issue [#15790](https://github.com/luanti-org/luanti/issues/15790) in [luanti-org/luanti](https://github.com/luanti-org/luanti)
+2. 🔒 Closed issue [#4806](https://github.com/reflex-dev/reflex/issues/4806) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🎉 Merged PR [#4826](https://github.com/reflex-dev/reflex/pull/4826) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🚀 Published release [v0.1.0](https://github.com/tgberkeley/reflex-webcam/releases/tag/v0.1.0) in [tgberkeley/reflex-webcam](https://github.com/tgberkeley/reflex-webcam)
 5. 🚀 Published release [v0.0.8](https://github.com/masenf/reflex-intersection-observer/releases/tag/v0.0.8) in [masenf/reflex-intersection-observer](https://github.com/masenf/reflex-intersection-observer)
 <!--END_SECTION:activity-->
 
