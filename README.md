@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4894](https://github.com/reflex-dev/reflex/issues/4894) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#4862](https://github.com/reflex-dev/reflex/pull/4862#issuecomment-2693180553) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#4880](https://github.com/reflex-dev/reflex/issues/4880#issuecomment-2688638778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. ❗ Opened issue [#161](https://github.com/nkbt/react-debounce-input/issues/161) in [nkbt/react-debounce-input](https://github.com/nkbt/react-debounce-input)
-5. 🗣 Commented on [#4880](https://github.com/reflex-dev/reflex/issues/4880#issuecomment-2688613553) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#4530](https://github.com/reflex-dev/reflex/issues/4530#issuecomment-2698654762) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🔒 Closed issue [#4530](https://github.com/reflex-dev/reflex/issues/4530) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❗ Opened issue [#4894](https://github.com/reflex-dev/reflex/issues/4894) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🗣 Commented on [#4862](https://github.com/reflex-dev/reflex/pull/4862#issuecomment-2693180553) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🗣 Commented on [#4880](https://github.com/reflex-dev/reflex/issues/4880#issuecomment-2688638778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
