@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4942](https://github.com/reflex-dev/reflex/issues/4942) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❗ Opened issue [#223](https://github.com/mtkennerly/poetry-dynamic-versioning/issues/223) in [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning)
-3. 💪 Opened PR [#4929](https://github.com/reflex-dev/reflex/pull/4929) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. ❗ Opened issue [#4928](https://github.com/reflex-dev/reflex/issues/4928) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#4914](https://github.com/reflex-dev/reflex/pull/4914) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#62](https://github.com/reflex-dev/templates/pull/62) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+2. 💪 Opened PR [#302](https://github.com/reflex-dev/reflex-examples/pull/302) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+3. 🚀 Published release [v0.7.2a2](https://github.com/reflex-dev/templates/releases/tag/v0.7.2a2) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+4. ❗ Opened issue [#4942](https://github.com/reflex-dev/reflex/issues/4942) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❗ Opened issue [#223](https://github.com/mtkennerly/poetry-dynamic-versioning/issues/223) in [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning)
 <!--END_SECTION:activity-->
 
 
