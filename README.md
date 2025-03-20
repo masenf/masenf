@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4989](https://github.com/reflex-dev/reflex/issues/4989) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 💪 Opened PR [#4986](https://github.com/reflex-dev/reflex/pull/4986) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❗ Opened issue [#77218](https://github.com/vercel/next.js/issues/77218) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🚀 Published release [v0.1.1](https://github.com/masenf/reflex-google-auth/releases/tag/v0.1.1) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-5. 🎉 Merged PR [#11](https://github.com/masenf/reflex-google-auth/pull/11) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+1. 🗣 Commented on [#4993](https://github.com/reflex-dev/reflex/pull/4993#issuecomment-2738126874) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. ❗ Opened issue [#4989](https://github.com/reflex-dev/reflex/issues/4989) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#4986](https://github.com/reflex-dev/reflex/pull/4986) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. ❗ Opened issue [#77218](https://github.com/vercel/next.js/issues/77218) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🚀 Published release [v0.1.1](https://github.com/masenf/reflex-google-auth/releases/tag/v0.1.1) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
 <!--END_SECTION:activity-->
 
 
