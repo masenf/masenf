@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.0](https://github.com/reflex-dev/reflex-chakra/releases/tag/v0.7.0) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
-2. 💪 Opened PR [#39](https://github.com/reflex-dev/reflex-chakra/pull/39) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
-3. 🚀 Published release [v0.7.4a3](https://github.com/reflex-dev/templates/releases/tag/v0.7.4a3) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
-4. ❗ Opened issue [#529](https://github.com/emmett-framework/granian/issues/529) in [emmett-framework/granian](https://github.com/emmett-framework/granian)
-5. 🗣 Commented on [#3728](https://github.com/reflex-dev/reflex/pull/3728#issuecomment-2741800813) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#5025](https://github.com/reflex-dev/reflex/pull/5025) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#5024](https://github.com/reflex-dev/reflex/pull/5024) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🚀 Published release [v0.7.0](https://github.com/reflex-dev/reflex-chakra/releases/tag/v0.7.0) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
+4. 💪 Opened PR [#39](https://github.com/reflex-dev/reflex-chakra/pull/39) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
+5. 🚀 Published release [v0.7.4a3](https://github.com/reflex-dev/templates/releases/tag/v0.7.4a3) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
 <!--END_SECTION:activity-->
 
 
