@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5529](https://github.com/reflex-dev/reflex/pull/5529) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#5524](https://github.com/reflex-dev/reflex/pull/5524#issuecomment-3032780425) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 💪 Opened PR [#156](https://github.com/leandrorojas/galadriel/pull/156) in [leandrorojas/galadriel](https://github.com/leandrorojas/galadriel)
-4. 💪 Opened PR [#155](https://github.com/leandrorojas/galadriel/pull/155) in [leandrorojas/galadriel](https://github.com/leandrorojas/galadriel)
-5. 🗣 Commented on [#1457](https://github.com/reflex-dev/reflex-web/pull/1457#issuecomment-3025553848) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+1. 💪 Opened PR [#5532](https://github.com/reflex-dev/reflex/pull/5532) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#5529](https://github.com/reflex-dev/reflex/pull/5529) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🗣 Commented on [#5524](https://github.com/reflex-dev/reflex/pull/5524#issuecomment-3032780425) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 💪 Opened PR [#156](https://github.com/leandrorojas/galadriel/pull/156) in [leandrorojas/galadriel](https://github.com/leandrorojas/galadriel)
+5. 💪 Opened PR [#155](https://github.com/leandrorojas/galadriel/pull/155) in [leandrorojas/galadriel](https://github.com/leandrorojas/galadriel)
 <!--END_SECTION:activity-->
 
 
