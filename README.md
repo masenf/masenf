@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7187](https://github.com/pypi/support/issues/7187) in [pypi/support](https://github.com/pypi/support)
-2. ❗ Opened issue [#5670](https://github.com/reflex-dev/reflex/issues/5670) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❗ Opened issue [#5669](https://github.com/reflex-dev/reflex/issues/5669) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#5666](https://github.com/reflex-dev/reflex/pull/5666) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#5620](https://github.com/reflex-dev/reflex/pull/5620#issuecomment-3145583623) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🔒 Labeled issue [#7187](https://github.com/pypi/support/issues/7187) in [pypi/support](https://github.com/pypi/support)
+2. ❗ Opened issue [#7187](https://github.com/pypi/support/issues/7187) in [pypi/support](https://github.com/pypi/support)
+3. 🔒 Labeled issue [#5670](https://github.com/reflex-dev/reflex/issues/5670) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. ❗ Opened issue [#5670](https://github.com/reflex-dev/reflex/issues/5670) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🔒 Labeled issue [#5669](https://github.com/reflex-dev/reflex/issues/5669) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
