@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/masenf-reflex-build/sample-issue-comment/pull/1#issuecomment-3185255409) in [masenf-reflex-build/sample-issue-comment](https://github.com/masenf-reflex-build/sample-issue-comment)
-2. 💪 Opened PR [#5710](https://github.com/reflex-dev/reflex/pull/5710) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#5701](https://github.com/reflex-dev/reflex/issues/5701#issuecomment-3181445181) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#5698](https://github.com/reflex-dev/reflex/pull/5698#issuecomment-3181425780) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#1](https://github.com/masenf-reflex-build/sample-issue-comment/pull/1#issuecomment-3176670881) in [masenf-reflex-build/sample-issue-comment](https://github.com/masenf-reflex-build/sample-issue-comment)
+1. 🚀 Published release [initial release](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.0.1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+2. 🎉 Merged PR [#1](https://github.com/reflex-dev/reflex-azure-auth/pull/1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+3. 💪 Opened PR [#1](https://github.com/reflex-dev/reflex-azure-auth/pull/1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+4. 🚀 Published release [v0.0.1a0](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.0.1a0) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+5. 🗣 Commented on [#1](https://github.com/masenf-reflex-build/sample-issue-comment/pull/1#issuecomment-3185255409) in [masenf-reflex-build/sample-issue-comment](https://github.com/masenf-reflex-build/sample-issue-comment)
 <!--END_SECTION:activity-->
 
 
