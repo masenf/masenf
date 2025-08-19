@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [initial release](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.0.1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-2. 🎉 Merged PR [#1](https://github.com/reflex-dev/reflex-azure-auth/pull/1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-3. 💪 Opened PR [#1](https://github.com/reflex-dev/reflex-azure-auth/pull/1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-4. 🚀 Published release [v0.0.1a0](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.0.1a0) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-5. 🗣 Commented on [#1](https://github.com/masenf-reflex-build/sample-issue-comment/pull/1#issuecomment-3185255409) in [masenf-reflex-build/sample-issue-comment](https://github.com/masenf-reflex-build/sample-issue-comment)
+1. 💪 Opened PR [#309](https://github.com/PostHog/posthog-python/pull/309) in [PostHog/posthog-python](https://github.com/PostHog/posthog-python)
+2. ❗ Opened issue [#308](https://github.com/PostHog/posthog-python/issues/308) in [PostHog/posthog-python](https://github.com/PostHog/posthog-python)
+3. 🚀 Published release [initial release](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.0.1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+4. 🎉 Merged PR [#1](https://github.com/reflex-dev/reflex-azure-auth/pull/1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+5. 💪 Opened PR [#1](https://github.com/reflex-dev/reflex-azure-auth/pull/1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
 <!--END_SECTION:activity-->
 
 
