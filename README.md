@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5746](https://github.com/reflex-dev/reflex/pull/5746) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🚀 Published release [v0.1.0](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.1.0) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-3. 🎉 Merged PR [#2](https://github.com/reflex-dev/reflex-azure-auth/pull/2) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-4. 💪 Opened PR [#2](https://github.com/reflex-dev/reflex-azure-auth/pull/2) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-5. 🗣 Commented on [#5721](https://github.com/reflex-dev/reflex/issues/5721#issuecomment-3202118983) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#1614](https://github.com/reflex-dev/reflex-web/pull/1614) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+2. 💪 Opened PR [#5746](https://github.com/reflex-dev/reflex/pull/5746) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🚀 Published release [v0.1.0](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.1.0) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+4. 🎉 Merged PR [#2](https://github.com/reflex-dev/reflex-azure-auth/pull/2) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+5. 💪 Opened PR [#2](https://github.com/reflex-dev/reflex-azure-auth/pull/2) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
 <!--END_SECTION:activity-->
 
 
