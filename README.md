@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0a2](https://github.com/masenf/reflex-local-auth/releases/tag/v0.4.0a2) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
-2. 🚀 Published release [v0.4.0a1](https://github.com/masenf/reflex-local-auth/releases/tag/v0.4.0a1) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
-3. 🎉 Merged PR [#21](https://github.com/masenf/reflex-local-auth/pull/21) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
-4. 💪 Opened PR [#1614](https://github.com/reflex-dev/reflex-web/pull/1614) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-5. 💪 Opened PR [#5746](https://github.com/reflex-dev/reflex/pull/5746) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#20](https://github.com/masenf/reflex-local-auth/issues/20#issuecomment-3259928943) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
+2. 🔒 Closed issue [#20](https://github.com/masenf/reflex-local-auth/issues/20) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
+3. 🗣 Commented on [#1605](https://github.com/reflex-dev/reflex-web/pull/1605#issuecomment-3259921658) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+4. 🚀 Published release [v0.4.0a3](https://github.com/masenf/reflex-local-auth/releases/tag/v0.4.0a3) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
+5. 🚀 Published release [v0.4.0a2](https://github.com/masenf/reflex-local-auth/releases/tag/v0.4.0a2) in [masenf/reflex-local-auth](https://github.com/masenf/reflex-local-auth)
 <!--END_SECTION:activity-->
 
 
