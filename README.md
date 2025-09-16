@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3936](https://github.com/reflex-dev/reflex/pull/3936) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#5778](https://github.com/reflex-dev/reflex/issues/5778#issuecomment-3276659804) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🔒 Closed issue [#5778](https://github.com/reflex-dev/reflex/issues/5778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. ❗ Opened issue [#5778](https://github.com/reflex-dev/reflex/issues/5778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🚀 Published release [v0.1.1](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.1.1) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+1. 💪 Opened PR [#5794](https://github.com/reflex-dev/reflex/pull/5794) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. ❌ Closed PR [#3936](https://github.com/reflex-dev/reflex/pull/3936) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🗣 Commented on [#5778](https://github.com/reflex-dev/reflex/issues/5778#issuecomment-3276659804) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🔒 Closed issue [#5778](https://github.com/reflex-dev/reflex/issues/5778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❗ Opened issue [#5778](https://github.com/reflex-dev/reflex/issues/5778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
