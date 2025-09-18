@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5794](https://github.com/reflex-dev/reflex/pull/5794) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❌ Closed PR [#3936](https://github.com/reflex-dev/reflex/pull/3936) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#5778](https://github.com/reflex-dev/reflex/issues/5778#issuecomment-3276659804) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🔒 Closed issue [#5778](https://github.com/reflex-dev/reflex/issues/5778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❗ Opened issue [#5778](https://github.com/reflex-dev/reflex/issues/5778) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#5796](https://github.com/reflex-dev/reflex/pull/5796#issuecomment-3304061488) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#5794](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🚀 Published release [v0.2.0a0](https://github.com/reflex-dev/reflex-okta-auth/releases/tag/v0.2.0a0) in [reflex-dev/reflex-okta-auth](https://github.com/reflex-dev/reflex-okta-auth)
+4. 💪 Opened PR [#2](undefined) in [reflex-dev/reflex-okta-auth](https://github.com/reflex-dev/reflex-okta-auth)
+5. 🔒 Unassigned issue [#4947](https://github.com/reflex-dev/reflex/issues/4947) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
