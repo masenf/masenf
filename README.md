@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5859](https://github.com/reflex-dev/reflex/pull/5859) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🚀 Published release [v0.2.0a2](https://github.com/masenf/reflex-google-auth/releases/tag/v0.2.0a2) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-3. 🚀 Published release [v0.2.0a1](https://github.com/masenf/reflex-google-auth/releases/tag/v0.2.0a1) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-4. 🚀 Published release [v0.2.0a0](https://github.com/masenf/reflex-google-auth/releases/tag/v0.2.0a0) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
-5. 💪 Opened PR [#13](https://github.com/masenf/reflex-google-auth/pull/13) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+1. 🗣 Commented on [#5859](https://github.com/reflex-dev/reflex/pull/5859#issuecomment-3382284569) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#5859](https://github.com/reflex-dev/reflex/pull/5859) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🚀 Published release [v0.2.0a2](https://github.com/masenf/reflex-google-auth/releases/tag/v0.2.0a2) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+4. 🚀 Published release [v0.2.0a1](https://github.com/masenf/reflex-google-auth/releases/tag/v0.2.0a1) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
+5. 🚀 Published release [v0.2.0a0](https://github.com/masenf/reflex-google-auth/releases/tag/v0.2.0a0) in [masenf/reflex-google-auth](https://github.com/masenf/reflex-google-auth)
 <!--END_SECTION:activity-->
 
 
