@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.1.2) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-2. 💪 Opened PR [#4](undefined) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
-3. 🚀 Published release [v0.2.1](https://github.com/reflex-dev/reflex-okta-auth/releases/tag/v0.2.1) in [reflex-dev/reflex-okta-auth](https://github.com/reflex-dev/reflex-okta-auth)
-4. 💪 Opened PR [#3](undefined) in [reflex-dev/reflex-okta-auth](https://github.com/reflex-dev/reflex-okta-auth)
-5. 💪 Opened PR [#5986](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#5988](https://github.com/reflex-dev/reflex/issues/5988#issuecomment-3555527638) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🚀 Published release [v0.1.2](https://github.com/reflex-dev/reflex-azure-auth/releases/tag/v0.1.2) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+3. 💪 Opened PR [#4](undefined) in [reflex-dev/reflex-azure-auth](https://github.com/reflex-dev/reflex-azure-auth)
+4. 🚀 Published release [v0.2.1](https://github.com/reflex-dev/reflex-okta-auth/releases/tag/v0.2.1) in [reflex-dev/reflex-okta-auth](https://github.com/reflex-dev/reflex-okta-auth)
+5. 💪 Opened PR [#3](undefined) in [reflex-dev/reflex-okta-auth](https://github.com/reflex-dev/reflex-okta-auth)
 <!--END_SECTION:activity-->
 
 
