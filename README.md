@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6076](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❌ Merged PR [#6067](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🔒 Closed issue [#6066](https://github.com/reflex-dev/reflex/issues/6066) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#4](undefined) in [mikechaskins/databricks-apps-cookbook](https://github.com/mikechaskins/databricks-apps-cookbook)
-5. 🗣 Commented on [#6073](https://github.com/reflex-dev/reflex/pull/6073#issuecomment-3706629478) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#6077](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. ❌ Merged PR [#6076](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🗣 Commented on [#6075](https://github.com/reflex-dev/reflex/issues/6075#issuecomment-3720051390) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 💪 Opened PR [#6076](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❌ Merged PR [#6067](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
