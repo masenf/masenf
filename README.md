@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5561](https://github.com/reflex-dev/reflex/issues/5561#issuecomment-3746885243) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🔒 Closed issue [#5561](https://github.com/reflex-dev/reflex/issues/5561) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🚀 Published release [v0.1.0.post1](https://github.com/reflex-dev/reflex-suneditor/releases/tag/v0.1.0.post1) in [reflex-dev/reflex-suneditor](https://github.com/reflex-dev/reflex-suneditor)
-4. 🚀 Published release [0.1.0](https://github.com/reflex-dev/reflex-suneditor/releases/tag/0.1.0) in [reflex-dev/reflex-suneditor](https://github.com/reflex-dev/reflex-suneditor)
-5. 🚀 Published release [v0.8.24.post1](https://github.com/reflex-dev/templates/releases/tag/v0.8.24.post1) in [reflex-dev/templates](https://github.com/reflex-dev/templates)
+1. 💪 Opened PR [#6083](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#5561](https://github.com/reflex-dev/reflex/issues/5561#issuecomment-3746885243) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🔒 Closed issue [#5561](https://github.com/reflex-dev/reflex/issues/5561) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🚀 Published release [v0.1.0.post1](https://github.com/reflex-dev/reflex-suneditor/releases/tag/v0.1.0.post1) in [reflex-dev/reflex-suneditor](https://github.com/reflex-dev/reflex-suneditor)
+5. 🚀 Published release [0.1.0](https://github.com/reflex-dev/reflex-suneditor/releases/tag/0.1.0) in [reflex-dev/reflex-suneditor](https://github.com/reflex-dev/reflex-suneditor)
 <!--END_SECTION:activity-->
 
 
