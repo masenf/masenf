@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/masenf/reflex-audio-capture/releases/tag/v0.1.1) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
-2. 🗣 Commented on [#6107](https://github.com/reflex-dev/reflex/issues/6107#issuecomment-3825404289) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🔒 Closed issue [#6107](https://github.com/reflex-dev/reflex/issues/6107) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#6087](https://github.com/reflex-dev/reflex/issues/6087#issuecomment-3824689253) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❌ Merged PR [#6102](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#6114](https://github.com/reflex-dev/reflex/issues/6114#issuecomment-3848637208) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#1748](https://github.com/reflex-dev/reflex-web/pull/1748#issuecomment-3848618783) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+3. ❌ Closed PR [#1748](undefined) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+4. 💪 Opened PR [#1749](undefined) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+5. 🚀 Published release [v0.1.1](https://github.com/masenf/reflex-audio-capture/releases/tag/v0.1.1) in [masenf/reflex-audio-capture](https://github.com/masenf/reflex-audio-capture)
 <!--END_SECTION:activity-->
 
 
