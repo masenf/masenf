@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1749](undefined) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-2. 🗣 Commented on [#799](https://github.com/emmett-framework/granian/issues/799#issuecomment-3857173116) in [emmett-framework/granian](https://github.com/emmett-framework/granian)
-3. ❌ Assigned PR [#6111](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🔒 Assigned issue [#6108](https://github.com/reflex-dev/reflex/issues/6108) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#4532](https://github.com/reflex-dev/reflex/issues/4532#issuecomment-3849255924) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#3958](https://github.com/Textualize/rich/issues/3958#issuecomment-3862573753) in [Textualize/rich](https://github.com/Textualize/rich)
+2. ❌ Merged PR [#1749](undefined) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
+3. 🗣 Commented on [#799](https://github.com/emmett-framework/granian/issues/799#issuecomment-3857173116) in [emmett-framework/granian](https://github.com/emmett-framework/granian)
+4. ❌ Assigned PR [#6111](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🔒 Assigned issue [#6108](https://github.com/reflex-dev/reflex/issues/6108) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
