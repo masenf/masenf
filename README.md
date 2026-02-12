@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6080](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❗ Opened issue [#6122](https://github.com/reflex-dev/reflex/issues/6122) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#3958](https://github.com/Textualize/rich/issues/3958#issuecomment-3862573753) in [Textualize/rich](https://github.com/Textualize/rich)
-4. ❌ Merged PR [#1749](undefined) in [reflex-dev/reflex-web](https://github.com/reflex-dev/reflex-web)
-5. 🗣 Commented on [#799](https://github.com/emmett-framework/granian/issues/799#issuecomment-3857173116) in [emmett-framework/granian](https://github.com/emmett-framework/granian)
+1. ❌ Merged PR [#6096](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. ❌ Merged PR [#6095](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❌ Merged PR [#6089](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. ❌ Closed PR [#6080](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❗ Opened issue [#6122](https://github.com/reflex-dev/reflex/issues/6122) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
