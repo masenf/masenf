@@ -30,7 +30,7 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 2. ❗ Opened issue [#6250](https://github.com/reflex-dev/reflex/issues/6250) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 3. 🔒 Unlabeled issue [#6208](https://github.com/reflex-dev/reflex/issues/6208) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 4. 🔒 Labeled issue [#6208](https://github.com/reflex-dev/reflex/issues/6208) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❗ Opened issue [#6229](https://github.com/reflex-dev/reflex/issues/6229) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🔒 Labeled issue [#6229](https://github.com/reflex-dev/reflex/issues/6229) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
