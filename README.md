@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6186](https://github.com/reflex-dev/reflex/issues/6186) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🔒 Closed issue [#3021](https://github.com/reflex-dev/reflex/issues/3021) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🔒 Closed issue [#6184](https://github.com/reflex-dev/reflex/issues/6184) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🔒 Closed issue [#6185](https://github.com/reflex-dev/reflex/issues/6185) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#6206](https://github.com/reflex-dev/reflex/pull/6206#issuecomment-4136678478) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🔒 Closed issue [#36](https://github.com/reflex-dev/reflex-chakra/issues/36) in [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra)
+2. 🔒 Closed issue [#4293](https://github.com/reflex-dev/reflex/issues/4293) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🔒 Closed issue [#301](https://github.com/reflex-dev/reflex-examples/issues/301) in [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples)
+4. 🔒 Closed issue [#4915](https://github.com/reflex-dev/reflex/issues/4915) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🔒 Closed issue [#4916](https://github.com/reflex-dev/reflex/issues/4916) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
