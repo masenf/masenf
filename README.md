@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6571](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#7376](https://github.com/recharts/recharts/issues/7376#issuecomment-4560693852) in [recharts/recharts](https://github.com/recharts/recharts)
-3. ❌ Closed PR [#6567](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#6569](https://github.com/reflex-dev/reflex/pull/6569#issuecomment-4559858633) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❌ Merged PR [#6570](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🔒 Labeled issue [#6572](https://github.com/reflex-dev/reflex/issues/6572) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. ❗ Opened issue [#6572](https://github.com/reflex-dev/reflex/issues/6572) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❌ Merged PR [#6571](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 💪 Opened PR [#6571](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🗣 Commented on [#7376](https://github.com/recharts/recharts/issues/7376#issuecomment-4560693852) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 
