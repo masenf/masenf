@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6218](https://github.com/reflex-dev/reflex/issues/6218) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❌ Merged PR [#2](undefined) in [reflex-dev/flexgen-databricks-marketplace-init](https://github.com/reflex-dev/flexgen-databricks-marketplace-init)
-3. 💪 Opened PR [#2](undefined) in [reflex-dev/flexgen-databricks-marketplace-init](https://github.com/reflex-dev/flexgen-databricks-marketplace-init)
-4. ❌ Merged PR [#6640](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#6660](https://github.com/reflex-dev/reflex/pull/6660#issuecomment-4711521051) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🔒 Closed issue [#6617](https://github.com/reflex-dev/reflex/issues/6617) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🔒 Closed issue [#6218](https://github.com/reflex-dev/reflex/issues/6218) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❌ Merged PR [#2](undefined) in [reflex-dev/flexgen-databricks-marketplace-init](https://github.com/reflex-dev/flexgen-databricks-marketplace-init)
+4. 💪 Opened PR [#2](undefined) in [reflex-dev/flexgen-databricks-marketplace-init](https://github.com/reflex-dev/flexgen-databricks-marketplace-init)
+5. ❌ Merged PR [#6640](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
