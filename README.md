@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6427](https://github.com/reflex-dev/reflex/pull/6427#issuecomment-4783800435) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#6676](https://github.com/reflex-dev/reflex/pull/6676#issuecomment-4782515566) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🔒 Closed issue [#6617](https://github.com/reflex-dev/reflex/issues/6617) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🔒 Closed issue [#6218](https://github.com/reflex-dev/reflex/issues/6218) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❌ Merged PR [#2](undefined) in [reflex-dev/flexgen-databricks-marketplace-init](https://github.com/reflex-dev/flexgen-databricks-marketplace-init)
+1. 🗣 Commented on [#6588](https://github.com/reflex-dev/reflex/pull/6588#issuecomment-4784191389) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🔒 Closed issue [#6101](https://github.com/reflex-dev/reflex/issues/6101) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🗣 Commented on [#6427](https://github.com/reflex-dev/reflex/pull/6427#issuecomment-4783800435) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🗣 Commented on [#6676](https://github.com/reflex-dev/reflex/pull/6676#issuecomment-4782515566) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🔒 Closed issue [#6617](https://github.com/reflex-dev/reflex/issues/6617) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
