@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6682](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❗ Opened issue [#264](https://github.com/geigerzaehler/oidc-provider-mock/issues/264) in [geigerzaehler/oidc-provider-mock](https://github.com/geigerzaehler/oidc-provider-mock)
-3. ❌ Merged PR [#6681](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#6681](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🚀 Published release [reflex-components-core@v0.9.6](https://github.com/reflex-dev/reflex/releases/tag/reflex-components-core-v0.9.6) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#6683](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 💪 Opened PR [#6682](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❗ Opened issue [#264](https://github.com/geigerzaehler/oidc-provider-mock/issues/264) in [geigerzaehler/oidc-provider-mock](https://github.com/geigerzaehler/oidc-provider-mock)
+4. ❌ Merged PR [#6681](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 💪 Opened PR [#6681](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
