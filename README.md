@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1](https://github.com/masenf/screenager/releases/tag/v0.1) in [masenf/screenager](https://github.com/masenf/screenager)
-2. ❌ Merged PR [#2](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
-3. 💪 Opened PR [#2](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
-4. ❌ Merged PR [#1](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
-5. 💪 Opened PR [#1](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
+1. 💪 Opened PR [#3](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
+2. 🚀 Published release [v0.1](https://github.com/masenf/screenager/releases/tag/v0.1) in [masenf/screenager](https://github.com/masenf/screenager)
+3. ❌ Merged PR [#2](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
+4. 💪 Opened PR [#2](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
+5. ❌ Merged PR [#1](undefined) in [masenf/screenager](https://github.com/masenf/screenager)
 <!--END_SECTION:activity-->
 
 
