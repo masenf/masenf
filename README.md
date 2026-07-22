@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/reflex-dev/xy/issues/153#issuecomment-5049187214) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-2. ❗ Opened issue [#160](https://github.com/reflex-dev/xy/issues/160) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-3. ❗ Opened issue [#158](https://github.com/reflex-dev/xy/issues/158) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-4. ❗ Opened issue [#157](https://github.com/reflex-dev/xy/issues/157) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-5. ❗ Opened issue [#156](https://github.com/reflex-dev/xy/issues/156) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+1. ❗ Opened issue [#209](https://github.com/reflex-dev/xy/issues/209) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+2. ❗ Opened issue [#208](https://github.com/reflex-dev/xy/issues/208) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+3. 🔒 Assigned issue [#130](https://github.com/reflex-dev/xy/issues/130) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+4. 🔒 Assigned issue [#205](https://github.com/reflex-dev/xy/issues/205) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+5. 🔒 Assigned issue [#156](https://github.com/reflex-dev/xy/issues/156) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
 <!--END_SECTION:activity-->
 
 
