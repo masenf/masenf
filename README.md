@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#369](https://github.com/reflex-dev/xy/pull/369#issuecomment-5109351614) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-2. 🗣 Commented on [#366](https://github.com/reflex-dev/xy/pull/366#issuecomment-5108492369) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-3. 🚀 Published release [reflex-xy-v0.0.2](https://github.com/reflex-dev/xy/releases/tag/reflex-xy-v0.0.2) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-4. ❌ Merged PR [#360](undefined) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
-5. 💪 Opened PR [#360](undefined) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+1. 💪 Opened PR [#6819](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#369](https://github.com/reflex-dev/xy/pull/369#issuecomment-5109351614) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+3. 🗣 Commented on [#366](https://github.com/reflex-dev/xy/pull/366#issuecomment-5108492369) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+4. 🚀 Published release [reflex-xy-v0.0.2](https://github.com/reflex-dev/xy/releases/tag/reflex-xy-v0.0.2) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
+5. ❌ Merged PR [#360](undefined) in [reflex-dev/xy](https://github.com/reflex-dev/xy)
 <!--END_SECTION:activity-->
 
 
