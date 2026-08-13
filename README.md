@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#6](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
-2. ❌ Labeled PR [#6](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
-3. 💪 Opened PR [#6](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
-4. 💪 Opened PR [#6880](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#6807](https://github.com/reflex-dev/reflex/pull/6807#issuecomment-5256688658) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 💪 Opened PR [#8](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+2. ❌ Merged PR [#6](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+3. ❌ Labeled PR [#6](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+4. 💪 Opened PR [#6](undefined) in [masenf/reflex-magic-link-auth](https://github.com/masenf/reflex-magic-link-auth)
+5. 💪 Opened PR [#6880](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
