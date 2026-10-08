@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7505](https://github.com/reflex-dev/reflex/pull/7505#issuecomment-6052955694) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#7505](https://github.com/reflex-dev/reflex/pull/7505#issuecomment-6052694969) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🗣 Commented on [#7514](https://github.com/reflex-dev/reflex/pull/7514#issuecomment-6052651515) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 🗣 Commented on [#7513](https://github.com/reflex-dev/reflex/pull/7513#issuecomment-6052622103) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 💪 Opened PR [#7514](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🗣 Commented on [#7516](https://github.com/reflex-dev/reflex/pull/7516#issuecomment-6055031532) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#7505](https://github.com/reflex-dev/reflex/pull/7505#issuecomment-6054245300) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❌ Merged PR [#7505](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. ❌ Merged PR [#7513](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🗣 Commented on [#7512](https://github.com/reflex-dev/reflex/pull/7512#issuecomment-6054822672) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
