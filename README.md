@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#7722](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❌ Labeled PR [#7594](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❌ Labeled PR [#7652](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. ❌ Labeled PR [#7668](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. ❌ Labeled PR [#7670](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🔒 Closed issue [#6223](https://github.com/reflex-dev/reflex/issues/6223) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. ❌ Labeled PR [#7722](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. ❌ Labeled PR [#7594](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. ❌ Labeled PR [#7652](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. ❌ Labeled PR [#7668](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
