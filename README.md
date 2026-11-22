@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7844](https://github.com/reflex-dev/reflex/issues/7844) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🔒 Closed issue [#7836](https://github.com/reflex-dev/reflex/issues/7836) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❌ Merged PR [#7941](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. ❌ Merged PR [#7925](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 💪 Opened PR [#7941](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. 🚀 Published release [v8.1.0a0](https://github.com/python-aprs/aprs3/releases/tag/v8.1.0a0) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+2. ❌ Merged PR [#10](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+3. ❌ Merged PR [#9](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+4. 🚀 Published release [v8.1.0a0](https://github.com/python-aprs/kiss3/releases/tag/v8.1.0a0) in [python-aprs/kiss3](https://github.com/python-aprs/kiss3)
+5. ❌ Merged PR [#14](undefined) in [python-aprs/kiss3](https://github.com/python-aprs/kiss3)
 <!--END_SECTION:activity-->
 
 
