@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8.1.0a0](https://github.com/python-aprs/aprs3/releases/tag/v8.1.0a0) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-2. ❌ Merged PR [#10](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-3. ❌ Merged PR [#9](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-4. 🚀 Published release [v8.1.0a0](https://github.com/python-aprs/kiss3/releases/tag/v8.1.0a0) in [python-aprs/kiss3](https://github.com/python-aprs/kiss3)
-5. ❌ Merged PR [#14](undefined) in [python-aprs/kiss3](https://github.com/python-aprs/kiss3)
+1. 🔒 Closed issue [#6](https://github.com/python-aprs/base-aprs-client/issues/6) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+2. ❌ Merged PR [#17](undefined) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+3. 🔒 Closed issue [#7](https://github.com/python-aprs/base-aprs-client/issues/7) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+4. ❌ Merged PR [#16](undefined) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+5. 🔒 Closed issue [#5](https://github.com/python-aprs/base-aprs-client/issues/5) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
 <!--END_SECTION:activity-->
 
 
