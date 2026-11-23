@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8.2.0](https://github.com/python-aprs/aprs3/releases/tag/v8.2.0) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-2. ❌ Merged PR [#42](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-3. ❌ Merged PR [#40](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-4. ❌ Merged PR [#43](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
-5. 💪 Opened PR [#27](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+1. 💪 Opened PR [#33](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+2. 💪 Opened PR [#32](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+3. 💪 Opened PR [#31](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+4. 💪 Opened PR [#30](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+5. 💪 Opened PR [#29](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
 <!--END_SECTION:activity-->
 
 
