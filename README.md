@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/python-aprs/base-aprs-client/issues/6) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
-2. ❌ Merged PR [#17](undefined) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
-3. 🔒 Closed issue [#7](https://github.com/python-aprs/base-aprs-client/issues/7) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
-4. ❌ Merged PR [#16](undefined) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
-5. 🔒 Closed issue [#5](https://github.com/python-aprs/base-aprs-client/issues/5) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+1. 🚀 Published release [v8.2.0](https://github.com/python-aprs/aprs3/releases/tag/v8.2.0) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+2. ❌ Merged PR [#42](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+3. ❌ Merged PR [#40](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+4. ❌ Merged PR [#43](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+5. 💪 Opened PR [#27](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
 <!--END_SECTION:activity-->
 
 
