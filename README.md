@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7983](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. ❌ Merged PR [#36](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-3. 💪 Opened PR [#36](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-4. ❌ Merged PR [#35](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-5. 💪 Opened PR [#35](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+1. ❌ Assigned PR [#61](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+2. ❌ Assigned PR [#33](undefined) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+3. 💪 Opened PR [#61](undefined) in [python-aprs/aprs3](https://github.com/python-aprs/aprs3)
+4. 💪 Opened PR [#33](undefined) in [python-aprs/base-aprs-client](https://github.com/python-aprs/base-aprs-client)
+5. ❌ Merged PR [#42](undefined) in [python-aprs/ax253](https://github.com/python-aprs/ax253)
 <!--END_SECTION:activity-->
 
 
