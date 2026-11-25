@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#42](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-2. 💪 Opened PR [#42](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-3. ❌ Merged PR [#41](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-4. ❌ Assigned PR [#41](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-5. 💪 Opened PR [#41](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+1. ❌ Assigned PR [#44](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+2. 💪 Opened PR [#44](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+3. 💪 Opened PR [#43](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+4. ❌ Assigned PR [#42](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+5. 💪 Opened PR [#42](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
 <!--END_SECTION:activity-->
 
 
