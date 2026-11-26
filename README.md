@@ -26,11 +26,11 @@ Buy me a coffee ☕️ or beer 🍺 to say thanks for my open source contributio
 
 #### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7983](undefined) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 🗣 Commented on [#7983](https://github.com/reflex-dev/reflex/pull/7983#issuecomment-7179423965) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. ❌ Assigned PR [#47](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-4. 💪 Opened PR [#47](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
-5. ❌ Merged PR [#46](undefined) in [python-aprs/sdr-scanner](https://github.com/python-aprs/sdr-scanner)
+1. 🗣 Commented on [#7955](https://github.com/reflex-dev/reflex/pull/7955#issuecomment-7202573851) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🗣 Commented on [#7951](https://github.com/reflex-dev/reflex/pull/7951#issuecomment-7202573447) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 🗣 Commented on [#7950](https://github.com/reflex-dev/reflex/pull/7950#issuecomment-7202573063) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+4. 🗣 Commented on [#7949](https://github.com/reflex-dev/reflex/pull/7949#issuecomment-7202572737) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 🗣 Commented on [#7761](https://github.com/reflex-dev/reflex/pull/7761#issuecomment-7202572341) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 
